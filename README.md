@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F00FF&height=220&section=header&text=Arbaz%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="[https://readme-typing-svg.demolab.com?](https://blob.sololearn.com/avatars/9da1f83a-7752-4be2-8695-dfe9f5f73ac4.jpg)?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+%F0%9F%92%BB;Building+Modern+Web+Applications+%E2%9A%A1;Creating+Premium+UI%2FUX+%F0%9F%8E%A8;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com](https://static.vecteezy.com/system/resources/previews/013/336/791/non_2x/gamer-streamer-mascot-logo-illustration-free-vector.jpg)?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+%F0%9F%92%BB;Building+Modern+Web+Applications+%E2%9A%A1;Creating+Premium+UI%2FUX+%F0%9F%8E%A8;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing jpg" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+Turning+ideas+into+real+products;%F0%9F%94%A5+Shipping+fast%2C+learning+faster;%E2%9C%A8+Code.+Design.+Deploy.+Repeat." alt="Typing SVG" />
 
