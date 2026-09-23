@@ -189,18 +189,6 @@ I enjoy turning ideas into **real products**, designing beautiful interfaces and
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/azzupro/azzupro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>💡 To enable this: add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a repo named exactly like your username, so it generates <code>github-contribution-grid-snake-dark.svg</code> on the <code>output</code> branch.</sub>
-
-</div>
-
----
-
 # 🧠 Developer Philosophy
 
 <div align="center">
