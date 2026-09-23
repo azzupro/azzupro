@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+%F0%9F%92%BB;Building+Modern+Web+Applications+%E2%9A%A1;Creating+Premium+UI%2FUX+%F0%9F%8E%A8;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+Turning+ideas+into+real+products;%F0%9F%94%A5+Shipping+fast%2C+learning+faster;%E2%9C%A8+Code.+Design.+Deploy.+Repeat." alt="Typing SVG" />
+
 <br/>
 
 <a href="https://github.com/azzupro">
@@ -96,7 +98,32 @@ I enjoy turning ideas into **real products**, designing beautiful interfaces and
 
 ---
 
+# 📊 Skill Proficiency
+
+<div align="center">
+
+**Next.js / React**
+`████████████████████░░` 90%
+
+**TypeScript / JavaScript**
+`███████████████████░░░` 88%
+
+**Node.js / Express**
+`██████████████████░░░░` 82%
+
+**MongoDB / SQL**
+`█████████████████░░░░░` 78%
+
+**UI/UX & Tailwind**
+`████████████████████░░` 90%
+
+</div>
+
+---
+
 # 🚀 Featured Projects
+
+> ⚠️ **Note:** Replace `YOUR_BEST_REPOSITORY` and `YOUR_SECOND_REPOSITORY` below with your actual GitHub repo names so these cards render correctly.
 
 <div align="center">
 
@@ -162,6 +189,18 @@ I enjoy turning ideas into **real products**, designing beautiful interfaces and
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/azzupro/azzupro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>💡 To enable this: add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a repo named exactly like your username, so it generates <code>github-contribution-grid-snake-dark.svg</code> on the <code>output</code> branch.</sub>
+
+</div>
+
+---
+
 # 🧠 Developer Philosophy
 
 <div align="center">
@@ -203,11 +242,11 @@ I enjoy turning ideas into **real products**, designing beautiful interfaces and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/arbaz-khan-929565249">
+<a href="https://www.linkedin.com/in/arbaz-khan-929565249">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://webpage-ten-tawny.vercel.app/)">
+<a href="https://webpage-ten-tawny.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
