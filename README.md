@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/github/followers/azzupro?label=Followers&style=for-the-badge&logo=github&color=6C63FF"/>
 </a>
 &nbsp;
-<a href="https://github.com/azzupro?tab=repositories">
-<img src="https://img.shields.io/github/stars/azzupro?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=00C9FF"/>
-</a>
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=azzupro&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS"/>
 
 </div>
@@ -36,10 +32,10 @@ I enjoy turning ideas into **real products**, designing beautiful interfaces and
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📁_Projects-12+-6C63FF?style=for-the-badge&labelColor=0d1220"/>
-<img src="https://img.shields.io/badge/🌿_Contributions-500+-00C9FF?style=for-the-badge&labelColor=0d1220"/>
-<img src="https://img.shields.io/badge/⭐_GitHub_Stars-1.2k+-7F00FF?style=for-the-badge&labelColor=0d1220"/>
-<img src="https://img.shields.io/badge/💼_Experience-2+_Years-6C63FF?style=for-the-badge&labelColor=0d1220"/>
+<img src="https://img.shields.io/badge/📁_Projects-12%2B-6C63FF?style=for-the-badge&labelColor=0d1220"/>
+<img src="https://img.shields.io/badge/🌿_Contributions-500%2B-00C9FF?style=for-the-badge&labelColor=0d1220"/>
+<img src="https://img.shields.io/badge/⭐_GitHub_Stars-1.2k%2B-7F00FF?style=for-the-badge&labelColor=0d1220"/>
+<img src="https://img.shields.io/badge/💼_Experience-2%2B_Years-6C63FF?style=for-the-badge&labelColor=0d1220"/>
 
 </div>
 
@@ -141,19 +137,7 @@ Full-Stack Developer focused on creating modern, scalable and visually polished 
 
 # 🚀 Featured Projects
 
-> ⚠️ **Note:** Replace `YOUR_BEST_REPOSITORY` and `YOUR_SECOND_REPOSITORY` below with your actual GitHub repo names so these cards render correctly.
-
-<div align="center">
-
-<a href="https://github.com/azzupro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=azzupro&repo=YOUR_BEST_REPOSITORY&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/azzupro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=azzupro&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+> 💡 Tell me your real repo names (e.g. `ecommerce-platform`) and I'll add live pin cards here — a placeholder repo name shows as a broken image on GitHub, so they're left out for now.
 
 ### 🛒 E-Commerce Platform
 
