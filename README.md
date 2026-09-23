@@ -207,7 +207,7 @@ I enjoy turning ideas into **real products**, designing beautiful interfaces and
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://webpage-ten-tawny.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
